@@ -10,4 +10,4 @@ Instructions for installation:
   1. Clone project to the desktop.
   2. Open project vith Visual Studio (with SDL set up).
   3. Make a build.
-  4. Run program.
+  4. Run program from "Memory-game-master\Debug\SDL_laiva".
